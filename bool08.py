@@ -7,4 +7,4 @@ def main(a):
         bool
     """
     # Write your code here
-    return bool(0>=a)
+    return (type(a)==int and a>=0)
