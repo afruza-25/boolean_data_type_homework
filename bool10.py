@@ -8,4 +8,4 @@ def main(a):
     """
     # Write your code here
     import math
-    return bool(math.sqrt(a))
+    return bool(math.sqrt(a))>=0
